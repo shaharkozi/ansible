@@ -28,7 +28,7 @@ private_key_path:
 git_repo_url: 
 git_repo_dest: 
 ```
-3. Run this command: ```ansible-playbook deploy.yml                                                                                             ```
+3. Run this command: ```ansible-playbook deploy.yml```
 
 
 <u>Author:</u> Shahar Kozenyuk
